@@ -6,4 +6,5 @@ end
 def book
   @book
 end
+end
 
